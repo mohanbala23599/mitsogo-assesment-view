@@ -1,0 +1,62 @@
+.sidebar_bg .MuiPaper-root {
+    background-color: #43425D;
+    color: #ffffff;
+}
+
+.MuiListItemIcon-root {
+    color: #ffffff !important;
+}
+
+
+/* selected button color change */
+.css-1m5i5w0-MuiButtonBase-root-MuiListItemButton-root.Mui-selected {
+    background: #3C3B54 !important;
+    color: #ffffff;
+}
+
+.Mui-selected .apply-btn {
+    color: #ffffff;
+    background: #5dabf8 !important;
+    border-radius: 6px;
+    padding: 6px 8px !important;
+}
+
+.break-space {
+    white-space: break-spaces;
+}
+
+/* child selected styles */
+.css-1i6lvca-MuiButtonBase-root-MuiListItemButton-root.Mui-selected.child-selected {
+    background-color: #ffffff;
+    color: black;
+    border-radius: 6px;
+    margin: 6px 8px !important;
+}
+
+.css-1i6lvca-MuiButtonBase-root-MuiListItemButton-root.Mui-selected.child-selected:hover {
+    background-color: #ffffff;
+    color: black;
+    border-radius: 6px;
+    margin: 6px 8px !important;
+}
+
+/* small drawer style */
+.small-drawer .MuiPaper-root {
+    background-color: #43425D;
+    color: #ffffff;
+}
+
+/*logo implementation*/
+.logo-custom {
+    width: 100%;
+}
+
+.logo-fs {
+    font-size: 1.1em;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.p-l-4{
+    padding-left: 4px;
+}

@@ -1,0 +1,50 @@
+.profile-icn-custom{
+    border-radius: 100px;
+    height: 96px;
+    width: 96px;
+}
+
+.m-0{
+    margin: 0px;
+}
+
+.referr-grid .grid-cmn-class {
+    height: calc(100vh - 331px) !important;
+}
+
+.product-video-img{
+    height: 241px;
+    width: 100%;
+}
+
+/* user profile panel */
+
+.user-title {
+    color: #4D4F5C;
+    margin: 10px;
+    font-weight: 600;
+}
+
+.user-state {
+    opacity: 50%;
+    color: #43425D;
+    font-weight: 500;
+}
+
+.m-10px{
+    margin: 10px;
+}
+
+.user-list-title{
+    color: #4D4F5C;
+    font-size: 18px;
+    font-weight: 500;
+    opacity: 100%;
+}
+
+/* divider style */
+
+.divider-style {
+    background-color: #4D4F5C;
+    opacity: 0.5;
+}

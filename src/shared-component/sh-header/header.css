@@ -1,0 +1,72 @@
+.bg-header .css-19z1ozs-MuiPaper-root-MuiAppBar-root{
+    background-color: #fff;
+    color: rgba(0, 0, 0, 0.87);
+    /* border-radius: 25px 0px 0px 0px; */
+}
+.back-color{
+    background: #fff !important;
+    color: black !important;
+}
+.bg-header .css-1191obr-MuiPaper-root-MuiAppBar-root{
+    background: #fff !important;
+    color: black !important;
+}
+.sm-header .css-19z1ozs-MuiPaper-root-MuiAppBar-root{
+    background-color: #fff;
+    color: rgba(0, 0, 0, 0.87);
+}
+.sm-header .css-1191obr-MuiPaper-root-MuiAppBar-root{
+    background: #fff !important;
+    color: black !important;
+    width: calc(100% - 170px) !important;
+}
+.search-container.css-1cejdov{
+    display: flex;
+    width: auto !important;
+    background: transparent !important;
+    /* border: 1px solid black; */
+    align-items: center !important;
+}
+.bg-header .css-19z1ozs-MuiPaper-root-MuiAppBar-root{
+    width: 95.7%
+}
+.sm-header .css-19z1ozs-MuiPaper-root-MuiAppBar-root{
+    width: 100%
+}
+/* .headermb{
+    width: 95.6% !important;
+} */
+
+#demo-select-small{
+    padding: 0px;
+}
+
+.profile-icn-align{
+    height: 25px;
+    width: 25px;
+    border-radius: 50px;
+}
+
+
+/* menu item custom styles */
+.menu-list-span{
+    color: #43425D;
+    opacity: 0.8;
+    font-size: 16px;
+}
+
+.menu-align{
+    display: flex;
+    align-items: center;
+}
+
+.m-r-5{
+    margin-right: 5px;
+}
+
+.show-more {
+    color: #3B86FF;
+    font-size: 14px;
+    opacity: 0.9;
+    cursor: pointer;
+}

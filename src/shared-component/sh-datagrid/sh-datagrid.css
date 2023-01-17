@@ -1,0 +1,37 @@
+.MuiDataGrid-columnHeaders{
+    background: #F5F6FA !important;
+    color: #A3A6B4 !important;
+}
+
+.css-1jbbcbn-MuiDataGrid-columnHeaderTitle{
+    font-weight: 600 !important;
+}
+
+.hide-header .MuiDataGrid-columnHeaders{
+    display: none !important;
+}
+
+.lastcolumnSeparator .MuiDataGrid-columnSeparator--sideRight {
+    display: none !important;
+}
+
+.css-1w5m2wr-MuiDataGrid-virtualScroller{
+    margin-top: 45px !important;
+}
+
+.MuiDataGrid-columnHeaders{
+    min-height: 45px !important;
+    max-height: 45px !important;
+}
+
+.css-1jvt3rm-MuiDataGrid-root .MuiDataGrid-row.even{
+    background-color: #FFFFFF;
+}
+
+.css-1jvt3rm-MuiDataGrid-root .MuiDataGrid-row.odd{
+    background-color: #FFFFFF;
+}
+
+.css-1jvt3rm-MuiDataGrid-root .MuiDataGrid-cellContent{
+    color: #4D4F5C;
+}
