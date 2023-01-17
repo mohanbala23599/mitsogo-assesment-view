@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mitsogo-assesment-view/static/css/main.96919fec.css",
+    "main.js": "/mitsogo-assesment-view/static/js/main.a38c51a0.js",
+    "static/css/282.2680935d.chunk.css": "/mitsogo-assesment-view/static/css/282.2680935d.chunk.css",
+    "static/js/282.6da7daf5.chunk.js": "/mitsogo-assesment-view/static/js/282.6da7daf5.chunk.js",
+    "static/js/551.a8e47b81.chunk.js": "/mitsogo-assesment-view/static/js/551.a8e47b81.chunk.js",
+    "static/media/video-thumbnail.png": "/mitsogo-assesment-view/static/media/video-thumbnail.3fc635315ed8a758c217.png",
+    "static/media/profile-pic-01.jpg": "/mitsogo-assesment-view/static/media/profile-pic-01.51ece3005c4b366d4214.jpg",
+    "static/media/profile-pic-02.jpg": "/mitsogo-assesment-view/static/media/profile-pic-02.d8a1e801ff955fa2ede8.jpg",
+    "static/media/profile-pic-05.jpg": "/mitsogo-assesment-view/static/media/profile-pic-05.6e423e4a104db59f6e03.jpg",
+    "static/media/profile-pic-03.jpg": "/mitsogo-assesment-view/static/media/profile-pic-03.b3d6694f95fd6c43086f.jpg",
+    "index.html": "/mitsogo-assesment-view/index.html",
+    "main.96919fec.css.map": "/mitsogo-assesment-view/static/css/main.96919fec.css.map",
+    "main.a38c51a0.js.map": "/mitsogo-assesment-view/static/js/main.a38c51a0.js.map",
+    "282.2680935d.chunk.css.map": "/mitsogo-assesment-view/static/css/282.2680935d.chunk.css.map",
+    "282.6da7daf5.chunk.js.map": "/mitsogo-assesment-view/static/js/282.6da7daf5.chunk.js.map",
+    "551.a8e47b81.chunk.js.map": "/mitsogo-assesment-view/static/js/551.a8e47b81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96919fec.css",
+    "static/js/main.a38c51a0.js"
+  ]
+}
